@@ -133,7 +133,7 @@ h1{
 .cook, .inspetora, .cuidadora {
     position: absolute;
     width: 100vw;
-    height: 46vh;
+    height: 45vh;
     bottom: 0;
     overflow: hidden;
 
@@ -160,17 +160,17 @@ h1{
 
 .cook img {
     width: 100vw;
-    height: 46vh;
+    height: 45vh;
 }
 
 .inspetora img {
     width: 100vw;
-    height: 46vh;
+    height: 45vh;
 }
 
 .cuidadora img {
     width: 100vw;
-    height: 46vh;
+    height: 45vh;
 }
 
 .cuidadora p {
