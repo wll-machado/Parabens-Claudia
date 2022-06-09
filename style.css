@@ -80,7 +80,7 @@ h1{
     position: absolute;
     top: 18vh;
     left: 12vw;
-    width: 80%;
+    width: 90%;
     opacity: 0;
 
     color: gold;
@@ -235,7 +235,7 @@ h1{
 .comentarios {
     position: absolute;
     width: 100vw;
-    height: 54vh;
+    height: 48vh;
     bottom: 0;
 
     background-color: #3e1e6877;
