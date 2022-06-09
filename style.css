@@ -13,7 +13,7 @@ main .cover {
     position: absolute;
     bottom: 0; 
     width: 100vw;
-    height: 60vh;
+    height: 57vh;
 
     display: flex;
     justify-content: center;
@@ -79,7 +79,7 @@ text-shadow: 1px 1px 0px gold;
 h1{
     position: absolute;
     top: 18vh;
-    left: 12vw;
+    left: 10vw;
     width: 90%;
     opacity: 0;
 
@@ -273,7 +273,7 @@ h1{
 .commentArea {
     position: absolute;
     width: 100vw;
-    height: 36vh;
+    height: 30vh;
     bottom: 0;
      
     overflow: auto;
