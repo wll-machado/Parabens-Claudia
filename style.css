@@ -158,6 +158,11 @@ h1{
     transition: opacity .8s;
 }
 
+.cook img {
+    width: 100vw;
+    height: 50vh;
+}
+
 .inspetora img {
     width: 100vw;
     height: 50vh;
